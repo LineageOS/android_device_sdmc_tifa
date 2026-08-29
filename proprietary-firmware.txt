@@ -1,4 +1,4 @@
 ## All firmware from this list, unless pinned and noted as otherwise,
-## are from YOC (URO4.260304.011.B1).
+## are from DV9135-KVV (UKG3.250803.001).
 
 bootloader.img;AB
