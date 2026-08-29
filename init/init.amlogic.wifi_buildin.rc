@@ -4,4 +4,14 @@
 ##
 
 on boot
-    insmod /vendor/lib/modules/8822cs.ko rtw_country_code=US ifname=wlan0 if2name=p2p0
+    insmod /vendor/lib/modules/uwe5621_bsp_sdio.ko
+    insmod /vendor/lib/modules/sprdwl_ng.ko
+    insmod /vendor/lib/modules/sprdbt_tty.ko
+    chown bluetooth bluetooth /sys/devices/platform/mtty.0/rfkill/rfkill*/state
+    chown bluetooth bluetooth /sys/devices/platform/mtty.0/rfkill/rfkill*/type
+    chown bluetooth bluetooth /dev/ttyBT0
+    chown bluetooth bluetooth /dev/ttyBT1
+    chmod 0660 /sys/devices/platform/mtty.0/rfkill/rfkill*/state
+    chmod 0660 /sys/devices/platform/mtty.0/rfkill/rfkill*/type
+    chmod 0660 /dev/ttyBT0
+    chmod 0660 /dev/ttyBT1

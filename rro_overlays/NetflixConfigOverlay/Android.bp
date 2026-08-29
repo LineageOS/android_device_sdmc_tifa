@@ -4,7 +4,7 @@
 //
 
 runtime_resource_overlay {
-    name: "NetflixConfigOverlayTarget",
+    name: "NetflixConfigOverlayTifa",
     theme: "NetflixConfigOverlay",
     resource_dirs: ["res"],
     soc_specific: true,

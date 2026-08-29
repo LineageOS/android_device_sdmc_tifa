@@ -1,9 +1,16 @@
 ## All blobs from this list, unless pinned and noted as otherwise,
-## are from YOC (URO4.260304.011.B1).
+## are from DV9135-KVV (UKG3.250803.001).
 
 ## Audio
 odm/lib/libHwAudio_dcvdec.so
 odm/lib/libHwAudio_dtshd.so
+
+## Bluetooth
+vendor/etc/bt_configure_pskey_aa.ini
+vendor/etc/bt_configure_rf.ini
+vendor/etc/bt_configure_rf_aa.ini
+vendor/etc/bt_configure_rf_marlin3e_3.ini
+vendor/lib/libbt-vendor_uni.so:vendor/lib/libbt-vendor.so;FIX_SONAME
 
 ## Display
 vendor/etc/mesondisplay.cfg
@@ -18,14 +25,21 @@ vendor/lib/libsecmem.so
 vendor/lib/firmware/aucpu_fw.bin
 vendor/lib/firmware/video/video_ucode.bin
 
-## Netflix
-product/etc/sysconfig/netflix.xml
-vendor/etc/permissions/droidlogic.software.netflix.xml
+## Netflix - from YOC - URO4.260304.011.B1
+product/etc/sysconfig/netflix.xml|a63698bfa31a9261eb329d0fbbc975faaff37b68
+vendor/etc/permissions/droidlogic.software.netflix.xml|f9798f7873372120d392377a55a5fe61279a98a7
 
 ## OEM Lock
 vendor/bin/hw/android.hardware.oemlock@1.0-service.droidlogic
 vendor/etc/init/android.hardware.oemlock@1.0-service.droidlogic.rc
 vendor/etc/vintf/manifest/android.hardware.oemlock@1.0-service.droidlogic.xml
+
+## Provision
+vendor/bin/ref_provision
+vendor/etc/init/ref_provision.rc
+vendor/etc/vintf/manifest/vendor.ref.hardware.RefProvision@1.1.xml
+vendor/lib/vendor.ref.hardware.RefProvision@1.0.so
+vendor/lib/vendor.ref.hardware.RefProvision@1.1.so
 
 ## TEE
 vendor/bin/hw/android.hardware.security.keymint-service.amlogic
@@ -38,14 +52,19 @@ vendor/lib/libkeymint.so:vendor/lib/libakeymint.so;FIX_SONAME
 vendor/lib/libkeymint_remote_prov_support.so:vendor/lib/libakeymint_remote_prov_support.so;FIX_SONAME
 
 ## TEE Applets
-vendor/lib/teetz/00d1ca22-1764-4e35-90aa-5b8c12630764.ta
 vendor/lib/teetz/2088528d-102a-4716-b940-23fd9be04adf.ta
 vendor/lib/teetz/2c1a33c0-44cc-11e5-bc3b-0002a5d5c51b.ta
 vendor/lib/teetz/526fc4fc-7ee6-4a12-96e3-83da9565bce8.ta
 vendor/lib/teetz/5dc33b6a-216d-4641-a834-b3f3aa1accb8.ta
 vendor/lib/teetz/6c67ce8f-95c1-4826-b62e-1a857a1ced3d.ta
 vendor/lib/teetz/8efb1e1c-37e5-4326-a5d6-8c33726c7d57.ta
+vendor/lib/teetz/9a04f079-9840-4286-ab92-e65be0885f95.ta
 vendor/lib/teetz/d83c3c4a-9e8d-4e4e-ad30-9d40e137f689.ta
 vendor/lib/teetz/e043cde0-61d0-11e5-9c26-0002a5d5c51b.ta
 vendor/lib/teetz/e92a43ab-b4c8-4450-aa12-b1516259613b.ta
 vendor/lib/teetz/ff2a4bea-ef6d-11e6-89cc-d4ae52a7b3b3.ta
+
+## Wi-Fi
+vendor/lib/firmware/wcnmodem.bin
+vendor/lib/firmware/wifi_board_config.ini
+vendor/lib/libwifi-hal-uni.so
