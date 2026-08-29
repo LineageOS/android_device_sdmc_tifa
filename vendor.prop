@@ -1,8 +1,9 @@
 ## Bluetooth
-bluetooth.device.default_name=Oppen
+bluetooth.device.default_name=TV360 4K Box
 bluetooth.profile.hfp.ag.enabled=false
 bluetooth.profile.opp.enabled=false
 bluetooth.profile.pbap.server.enabled=false
+ro.odm.wl.vnd=uni
 
 ## FRP
 ro.frp.pst=/dev/block/by-name/frp
