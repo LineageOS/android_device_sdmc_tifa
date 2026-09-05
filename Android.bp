@@ -4,3 +4,10 @@
 //
 
 soong_namespace {}
+
+prebuilt_etc {
+    name: "wpa_supplicant.conf",
+    src: "wlan/wpa_supplicant.conf",
+    sub_dir: "wifi",
+    vendor: true,
+}
