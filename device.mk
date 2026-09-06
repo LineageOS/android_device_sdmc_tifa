@@ -28,6 +28,10 @@ TARGET_AMLOGIC_SOC := s4
 PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH)
 
+## Wi-Fi
+PRODUCT_COPY_FILES += \
+    $(LOCAL_PATH)/wlan/libwifi-hal-uni-wrapper.xml:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/vendor_hals/libwifi-hal-uni-wrapper.xml
+
 ## Inherit from the common tree product makefile
 $(call inherit-product, device/amlogic/ne-common/ne.mk)
 
