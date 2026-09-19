@@ -36,6 +36,42 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "6e2788c1_404ff96a",
+        "filename": "proprietary-firmware.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2026-09-19T14:51:35Z",
+      "side": 0,
+      "message": "Sorry, comment was to some other file.",
+      "parentUuid": "20cca4f6_cf8bc983",
+      "revId": "305e955e461e67150d2d6fe8b2dcde0bb4dfa67b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d7d1e10c_77cf333f",
+        "filename": "proprietary-firmware.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2026-09-19T14:51:35Z",
+      "side": 0,
+      "message": "Sorry, comment in the wrong file.",
+      "parentUuid": "20cca4f6_cf8bc983",
+      "revId": "305e955e461e67150d2d6fe8b2dcde0bb4dfa67b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "6aaea6f3_2accf55a",
