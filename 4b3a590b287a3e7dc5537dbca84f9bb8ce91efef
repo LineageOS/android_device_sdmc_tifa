@@ -116,6 +116,30 @@
       },
       "revId": "4b3a590b287a3e7dc5537dbca84f9bb8ce91efef",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "59e5a6b5_7968ea47",
+        "filename": "init/init.amlogic.wifi_buildin.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 32674
+      },
+      "writtenOn": "2026-09-19T14:47:21Z",
+      "side": 1,
+      "message": "Stock did it in `vendor/etc/init/bt_load_uni.rc` if `ro.odm.wl.vnd` is set to `uni`. I blobbed it now. I\u0027ll test it later.",
+      "parentUuid": "ede419c5_dc56a303",
+      "range": {
+        "startLine": 8,
+        "startChar": 0,
+        "endLine": 17,
+        "endChar": 26
+      },
+      "revId": "4b3a590b287a3e7dc5537dbca84f9bb8ce91efef",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
