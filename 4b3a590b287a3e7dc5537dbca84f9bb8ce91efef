@@ -16,6 +16,24 @@
       "message": "run dos2unix",
       "revId": "4b3a590b287a3e7dc5537dbca84f9bb8ce91efef",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5ac39b17_b37ac974",
+        "filename": "wlan/wpa_supplicant.conf",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32674
+      },
+      "writtenOn": "2026-09-19T14:45:08Z",
+      "side": 0,
+      "message": "Done",
+      "parentUuid": "2625f51c_b2497643",
+      "revId": "4b3a590b287a3e7dc5537dbca84f9bb8ce91efef",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
