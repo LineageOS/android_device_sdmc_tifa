@@ -20,6 +20,24 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "20cca4f6_cf8bc983",
+        "filename": "proprietary-firmware.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32674
+      },
+      "writtenOn": "2026-09-19T14:34:11Z",
+      "side": 0,
+      "message": "Why? This build number is literally the same as the device OTA package though.",
+      "parentUuid": "2f23b32e_c392c213",
+      "revId": "305e955e461e67150d2d6fe8b2dcde0bb4dfa67b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "6aaea6f3_2accf55a",
         "filename": "rro_overlays/BluetoothOverlay/Android.bp",
         "patchSetId": 1
@@ -31,6 +49,24 @@
       "writtenOn": "2026-09-19T10:46:31Z",
       "side": 0,
       "message": "Undo",
+      "revId": "305e955e461e67150d2d6fe8b2dcde0bb4dfa67b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5970263c_58bf3dc3",
+        "filename": "rro_overlays/BluetoothOverlay/Android.bp",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32674
+      },
+      "writtenOn": "2026-09-19T14:34:11Z",
+      "side": 0,
+      "message": "Done",
+      "parentUuid": "6aaea6f3_2accf55a",
       "revId": "305e955e461e67150d2d6fe8b2dcde0bb4dfa67b",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
@@ -48,6 +84,24 @@
       "writtenOn": "2026-09-19T10:46:31Z",
       "side": 0,
       "message": "Undo",
+      "revId": "305e955e461e67150d2d6fe8b2dcde0bb4dfa67b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "783c87dc_866eb79a",
+        "filename": "rro_overlays/NetflixConfigOverlay/Android.bp",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32674
+      },
+      "writtenOn": "2026-09-19T14:34:11Z",
+      "side": 0,
+      "message": "Done",
+      "parentUuid": "c27e1b64_ee6883a0",
       "revId": "305e955e461e67150d2d6fe8b2dcde0bb4dfa67b",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }

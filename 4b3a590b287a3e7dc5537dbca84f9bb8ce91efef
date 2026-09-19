@@ -24,6 +24,30 @@
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "95c9382b_8a2c4000",
+        "filename": "device.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 32674
+      },
+      "writtenOn": "2026-09-19T14:34:11Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "c99a2e90_6208af4c",
+      "range": {
+        "startLine": 8,
+        "startChar": 4,
+        "endLine": 8,
+        "endChar": 24
+      },
+      "revId": "4b3a590b287a3e7dc5537dbca84f9bb8ce91efef",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "d1b1be92_a28b02d8",
@@ -37,6 +61,30 @@
       "writtenOn": "2026-09-19T10:46:31Z",
       "side": 1,
       "message": "Same here.",
+      "range": {
+        "startLine": 22,
+        "startChar": 4,
+        "endLine": 22,
+        "endChar": 28
+      },
+      "revId": "4b3a590b287a3e7dc5537dbca84f9bb8ce91efef",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "811ce1bc_1e04da5c",
+        "filename": "device.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 32674
+      },
+      "writtenOn": "2026-09-19T14:34:11Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "d1b1be92_a28b02d8",
       "range": {
         "startLine": 22,
         "startChar": 4,
