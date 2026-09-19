@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "2f23b32e_c392c213",
+        "filename": "proprietary-firmware.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2026-09-19T10:46:31Z",
+      "side": 0,
+      "message": "Undo",
+      "revId": "305e955e461e67150d2d6fe8b2dcde0bb4dfa67b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "6aaea6f3_2accf55a",
+        "filename": "rro_overlays/BluetoothOverlay/Android.bp",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2026-09-19T10:46:31Z",
+      "side": 0,
+      "message": "Undo",
+      "revId": "305e955e461e67150d2d6fe8b2dcde0bb4dfa67b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "c27e1b64_ee6883a0",
+        "filename": "rro_overlays/NetflixConfigOverlay/Android.bp",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2026-09-19T10:46:31Z",
+      "side": 0,
+      "message": "Undo",
+      "revId": "305e955e461e67150d2d6fe8b2dcde0bb4dfa67b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
