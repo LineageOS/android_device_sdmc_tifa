@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "2625f51c_b2497643",
+        "filename": "wlan/wpa_supplicant.conf",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2026-09-19T11:44:19Z",
+      "side": 0,
+      "message": "run dos2unix",
+      "revId": "4b3a590b287a3e7dc5537dbca84f9bb8ce91efef",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
