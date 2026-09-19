@@ -45,6 +45,29 @@
       },
       "revId": "4b3a590b287a3e7dc5537dbca84f9bb8ce91efef",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ede419c5_dc56a303",
+        "filename": "init/init.amlogic.wifi_buildin.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2026-09-19T11:37:07Z",
+      "side": 1,
+      "message": "These are BT related. I would suggest to move to a separate init script (init.tifa.rc)",
+      "range": {
+        "startLine": 8,
+        "startChar": 0,
+        "endLine": 17,
+        "endChar": 26
+      },
+      "revId": "4b3a590b287a3e7dc5537dbca84f9bb8ce91efef",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
