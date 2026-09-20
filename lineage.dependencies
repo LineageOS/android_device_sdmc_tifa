@@ -4,8 +4,8 @@
     "target_path": "device/amlogic/ne-common"
   },
   {
-    "repository": "android_kernel_amlogic_oppen-build",
-    "target_path": "kernel/platform/kernel-5.15/vendor/amlogic/oppen-build"
+    "repository": "android_kernel_sdmc_tifa-build",
+    "target_path": "kernel/platform/kernel-5.15/vendor/sdmc/tifa-build"
   },
   {
     "repository": "android_kernel_amlogic_realtek-drivers_8822cs",

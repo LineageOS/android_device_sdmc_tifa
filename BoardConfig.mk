@@ -3,19 +3,19 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-DEVICE_PATH := device/amlogic/oppen
+DEVICE_PATH := device/sdmc/tifa
 
 ## Bootloader
 TARGET_BOOTLOADER_BOARD_NAME := oppen
 
 ## DTB
 BOARD_KERNEL_SEPARATED_DTBO := true
-TARGET_DTB_NAME := s4_s905y4_ap222_drm
+TARGET_DTB_NAME := s4_s905y4_dv9135
 TARGET_DTBO_NAME := android_overlay_dt
 
 ## Kernel
-TARGET_KERNEL_PLATFORM_TARGET := oppen
-TARGET_KERNEL_SOURCE := vendor/amlogic/oppen-build
+TARGET_KERNEL_PLATFORM_TARGET := tifa
+TARGET_KERNEL_SOURCE := vendor/sdmc/tifa-build
 
 ## Kernel modules
 BOOT_KERNEL_MODULES := $(strip $(shell cat $(DEVICE_PATH)/vendor_boot.modules.load))
@@ -41,4 +41,4 @@ WPA_SUPPLICANT_VERSION := VER_0_8_X
 include device/amlogic/ne-common/BoardConfigCommon.mk
 
 ## Include the proprietary BoardConfig makefile
-include vendor/amlogic/oppen/BoardConfigVendor.mk
+include vendor/sdmc/tifa/BoardConfigVendor.mk
