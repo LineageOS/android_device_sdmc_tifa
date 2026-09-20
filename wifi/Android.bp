@@ -1,0 +1,18 @@
+//
+// SPDX-FileCopyrightText: The LineageOS Project
+// SPDX-License-Identifier: Apache-2.0
+//
+
+prebuilt_etc {
+    name: "wifi_vendor_hal.xml",
+    src: "wifi_vendor_hal.xml",
+    sub_dir: "wifi/vendor_hals",
+    vendor: true,
+}
+
+prebuilt_etc {
+    name: "wpa_supplicant.conf",
+    src: "wpa_supplicant.conf",
+    sub_dir: "wifi",
+    vendor: true,
+}
