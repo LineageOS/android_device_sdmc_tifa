@@ -1,0 +1,97 @@
+##
+## SPDX-FileCopyrightText: The LineageOS Project
+## SPDX-License-Identifier: Apache-2.0
+##
+
+key 1     BACK
+key 2     1
+key 3     2
+key 4     3
+key 5     4
+key 6     5
+key 7     6
+key 8     7
+key 9     8
+key 10    9
+key 11    0
+
+key 12    MINUS
+key 13    EQUALS
+
+key 14    DEL
+key 15    BACK
+key 26    LEFT_BRACKET
+key 27    RIGHT_BRACKET
+
+key 28    DPAD_CENTER
+key 353   DPAD_CENTER
+
+key 39    SEMICOLON
+key 40    APOSTROPHE
+key 42    SHIFT_LEFT
+key 43    BACKSLASH
+
+key 51    COMMA
+key 52    PERIOD
+key 53    SLASH
+key 54    SHIFT_RIGHT
+key 56    ALT_LEFT
+key 57    SPACE
+key 58    SOFT_RIGHT
+
+key 60    F2
+key 62    PROG_YELLOW
+
+key 67    AT
+
+key 70    EXPLORER
+
+key 92    PAGE_UP
+key 93    PAGE_DOWN
+
+key 97    DPAD_CENTER
+
+key 100   ALT_RIGHT
+key 102   MOVE_HOME
+key 103   DPAD_UP
+key 104   VOLUME_UP
+key 105   DPAD_LEFT
+key 106   DPAD_RIGHT
+key 107   ENDCALL
+key 108   DPAD_DOWN
+key 109   VOLUME_DOWN
+
+key 113   VOLUME_MUTE
+key 114   VOLUME_DOWN
+key 115   VOLUME_UP
+key 116   POWER
+
+key 119   MEDIA_PLAY_PAUSE
+key 120   MEDIA_FAST_FORWARD
+key 121   MEDIA_REWIND
+key 122   MEDIA_PREVIOUS
+key 123   MEDIA_NEXT
+
+key 128   MEDIA_STOP
+key 130   ZOOM_IN
+key 131   ZOOM_OUT
+key 133   TAB
+
+key 139   MENU
+key 140   F10
+key 155   ENVELOPE
+key 158   BACK
+
+key 172   HOME
+key 189   SETTINGS	# SDMCEXTEND4
+key 212   CAMERA
+
+key 227   STAR
+key 228   POUND
+key 231   CALL
+key 232   DPAD_CENTER
+
+key 358	  INFO
+
+key 402   CHANNEL_UP
+key 403   CHANNEL_DOWN

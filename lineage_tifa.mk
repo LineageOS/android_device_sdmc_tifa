@@ -16,14 +16,14 @@ $(call inherit-product, vendor/lineage/config/common_full_tv.mk)
 $(call inherit-product, $(LOCAL_PATH)/device.mk)
 
 ## Device identifier. This must come after all inclusions
-PRODUCT_BRAND := Amlogic
-PRODUCT_DEVICE := oppen
-PRODUCT_GMS_CLIENTID_BASE := android-onn-tv
-PRODUCT_MANUFACTURER := Amlogic
-PRODUCT_MODEL := oppen
-PRODUCT_NAME := lineage_oppen
+PRODUCT_BRAND := TV360-4K-Box
+PRODUCT_DEVICE := tifa
+PRODUCT_GMS_CLIENTID_BASE := android-sdmc-tv
+PRODUCT_MANUFACTURER := SDMC
+PRODUCT_MODEL := TV360 4K Box
+PRODUCT_NAME := lineage_tifa
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    BuildDesc="onn_4k_gtv-user 14 URO4.260304.011.B1 15051976 release-keys" \
-    BuildFingerprint=onn/onn_4k_gtv/YOC:14/URO4.260304.011.B1/15051976:user/release-keys \
-    SystemName=oppen
+    BuildDesc="oppen-user 14 UKG3.250803.001 20251124 release-keys" \
+    BuildFingerprint=TV360-4K-Box/TV360-ATV-Y4-SDMC/DV9135-KVV:14/UKG/20251211:user/release-keys \
+    SystemName=DV9135-KVV
