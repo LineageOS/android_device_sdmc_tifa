@@ -8,11 +8,7 @@
     "target_path": "kernel/platform/kernel-5.15/vendor/sdmc/tifa-build"
   },
   {
-    "repository": "android_kernel_amlogic_realtek-drivers_8822cs",
-    "target_path": "kernel/platform/kernel-5.15/vendor/amlogic/realtek-drivers/8822cs"
-  },
-  {
-    "repository": "android_hardware_realtek",
-    "target_path": "hardware/realtek"
+    "repository": "android_kernel_amlogic_unisoc-drivers_uwe5621ds",
+    "target_path": "kernel/platform/kernel-5.15/vendor/amlogic/unisoc-drivers/uwe5621ds"
   }
 ]

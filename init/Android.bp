@@ -4,8 +4,8 @@
 //
 
 prebuilt_etc {
-    name: "init.amlogic.wifi_buildin.rc",
-    src: "init.amlogic.wifi_buildin.rc",
-    sub_dir: "init/hw",
+    name: "init.tifa.bluetooth.rc",
+    src: "init.tifa.bluetooth.rc",
+    sub_dir: "init",
     soc_specific: true,
 }
