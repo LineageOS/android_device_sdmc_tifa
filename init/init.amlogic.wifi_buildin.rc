@@ -4,4 +4,6 @@
 ##
 
 on boot
-    insmod /vendor/lib/modules/8822cs.ko rtw_country_code=US ifname=wlan0 if2name=p2p0
+    insmod /vendor/lib/modules/uwe5621_bsp_sdio.ko
+    insmod /vendor/lib/modules/sprdwl_ng.ko
+    insmod /vendor/lib/modules/sprdbt_tty.ko
