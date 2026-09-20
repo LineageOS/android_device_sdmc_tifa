@@ -4,15 +4,12 @@
 #
 
 ## Bluetooth
-BOARD_HAVE_BLUETOOTH_RTK_TV := true
-include hardware/realtek/rtkbt/rtkbt.mk
-
 PRODUCT_PACKAGES += \
     BluetoothOverlayTarget
 
 ## Init
 PRODUCT_PACKAGES += \
-    init.amlogic.wifi_buildin.rc
+    init.tifa.bluetooth.rc
 
 ## Keylayout (IR)
 PRODUCT_PACKAGES += \
@@ -34,7 +31,8 @@ PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH)
 
 ## Wi-Fi
-include hardware/realtek/wlan/wlan.mk
+PRODUCT_PACKAGES += \
+    wifi_vendor_hal.xml
 
 ## Inherit from the common tree product makefile
 $(call inherit-product, device/amlogic/ne-common/ne.mk)

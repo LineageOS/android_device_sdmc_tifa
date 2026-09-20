@@ -63,3 +63,6 @@ amlogic-snd-soc.ko
 amlogic-snd-codec-t9015.ko
 cfg80211.ko
 mac80211.ko
+uwe5621_bsp_sdio.ko
+sprdwl_ng.ko
+sprdbt_tty.ko
