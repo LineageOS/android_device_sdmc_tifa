@@ -22,6 +22,30 @@
       },
       "revId": "fb76d92c256b35b6fc211bad4eb4426e6d253878",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "69f4662a_190b3129",
+        "filename": "lineage_tifa.mk",
+        "patchSetId": 6
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 32674
+      },
+      "writtenOn": "2026-09-21T15:12:08Z",
+      "side": 1,
+      "message": "$ rg TV360-4K-Box\nsystem/build.prop\n5:ro.product.system.brand\u003dTV360-4K-Box\n15:ro.system.build.fingerprint\u003dTV360-4K-Box/TV360-ATV-Y4-SDMC/DV9135-KVV:14/UKG/20251211:user/release-keys\n\nThis device is a B2B model. It doesn\u0027t have a codename either.",
+      "parentUuid": "1f9e6c22_496ad474",
+      "range": {
+        "startLine": 19,
+        "startChar": 17,
+        "endLine": 19,
+        "endChar": 29
+      },
+      "revId": "fb76d92c256b35b6fc211bad4eb4426e6d253878",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
