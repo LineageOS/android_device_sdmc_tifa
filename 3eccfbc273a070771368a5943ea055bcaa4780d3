@@ -22,6 +22,30 @@
       },
       "revId": "3eccfbc273a070771368a5943ea055bcaa4780d3",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6c4182ee_fdd72b72",
+        "filename": "init/init.amlogic.wifi_buildin.rc",
+        "patchSetId": 4
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 32674
+      },
+      "writtenOn": "2026-09-21T03:01:03Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "77326d0b_a15b51b1",
+      "range": {
+        "startLine": 8,
+        "startChar": 0,
+        "endLine": 10,
+        "endChar": 0
+      },
+      "revId": "3eccfbc273a070771368a5943ea055bcaa4780d3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
