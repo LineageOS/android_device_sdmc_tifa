@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "1f9e6c22_496ad474",
+        "filename": "lineage_tifa.mk",
+        "patchSetId": 6
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2026-09-21T11:34:57Z",
+      "side": 1,
+      "message": "Is this really the brand?",
+      "range": {
+        "startLine": 19,
+        "startChar": 17,
+        "endLine": 19,
+        "endChar": 29
+      },
+      "revId": "fb76d92c256b35b6fc211bad4eb4426e6d253878",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
