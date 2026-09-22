@@ -94,6 +94,30 @@
       },
       "revId": "f4ba10cb11dfdeeafdd4d283bd4b50c84fca6a27",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "bc998222_a66a59cb",
+        "filename": "init/init.amlogic.wifi_buildin.rc",
+        "patchSetId": 6
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 32674
+      },
+      "writtenOn": "2026-09-22T16:22:20Z",
+      "side": 1,
+      "message": "Wi-Fi and Bluetooth works fine here.",
+      "parentUuid": "c2a8ba8f_8f0e587e",
+      "range": {
+        "startLine": 7,
+        "startChar": 31,
+        "endLine": 7,
+        "endChar": 50
+      },
+      "revId": "f4ba10cb11dfdeeafdd4d283bd4b50c84fca6a27",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
