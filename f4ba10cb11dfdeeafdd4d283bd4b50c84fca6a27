@@ -70,6 +70,30 @@
       },
       "revId": "f4ba10cb11dfdeeafdd4d283bd4b50c84fca6a27",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "c2a8ba8f_8f0e587e",
+        "filename": "init/init.amlogic.wifi_buildin.rc",
+        "patchSetId": 6
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2026-09-22T15:36:38Z",
+      "side": 1,
+      "message": "Yea, I think I\u0027ll do the same on jaws and kill this init file, if WiFi still works.",
+      "parentUuid": "2c9c3a7e_9d377d8a",
+      "range": {
+        "startLine": 7,
+        "startChar": 31,
+        "endLine": 7,
+        "endChar": 50
+      },
+      "revId": "f4ba10cb11dfdeeafdd4d283bd4b50c84fca6a27",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
