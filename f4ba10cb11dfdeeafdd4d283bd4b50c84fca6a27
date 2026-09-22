@@ -46,6 +46,30 @@
       },
       "revId": "f4ba10cb11dfdeeafdd4d283bd4b50c84fca6a27",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "2c9c3a7e_9d377d8a",
+        "filename": "init/init.amlogic.wifi_buildin.rc",
+        "patchSetId": 6
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 32674
+      },
+      "writtenOn": "2026-09-22T15:34:40Z",
+      "side": 1,
+      "message": "The modules.load thing works. Will try to put uwe5621 kernel modules in it.",
+      "parentUuid": "bac4300e_c475e0fd",
+      "range": {
+        "startLine": 7,
+        "startChar": 31,
+        "endLine": 7,
+        "endChar": 50
+      },
+      "revId": "f4ba10cb11dfdeeafdd4d283bd4b50c84fca6a27",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
