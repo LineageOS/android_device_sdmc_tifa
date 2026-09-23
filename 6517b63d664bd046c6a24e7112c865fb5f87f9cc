@@ -46,6 +46,30 @@
       },
       "revId": "6517b63d664bd046c6a24e7112c865fb5f87f9cc",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2b8df6ff_e2dd61e9",
+        "filename": "vendor_dlkm.modules.load",
+        "patchSetId": 9
+      },
+      "lineNbr": 68,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2026-09-23T08:32:34Z",
+      "side": 1,
+      "message": "The script is shipped and imported: https://github.com/LineageOS/android_device_amlogic_ne-common/blob/lineage-23.2/init/init.amlogic.rc#L6. Just saying that you could have just set the persist prop. :P",
+      "parentUuid": "e05f4a3f_a3e7fa24",
+      "range": {
+        "startLine": 66,
+        "startChar": 0,
+        "endLine": 68,
+        "endChar": 13
+      },
+      "revId": "6517b63d664bd046c6a24e7112c865fb5f87f9cc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ],
   "submitRequirementResults": [
