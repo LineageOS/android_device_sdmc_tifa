@@ -22,6 +22,30 @@
       },
       "revId": "6517b63d664bd046c6a24e7112c865fb5f87f9cc",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e05f4a3f_a3e7fa24",
+        "filename": "vendor_dlkm.modules.load",
+        "patchSetId": 9
+      },
+      "lineNbr": 68,
+      "author": {
+        "id": 32674
+      },
+      "writtenOn": "2026-09-23T08:20:05Z",
+      "side": 1,
+      "message": "I don\u0027t think there is a device shipped using that script though. Should we drop it?",
+      "parentUuid": "fc9d49d6_2be95c69",
+      "range": {
+        "startLine": 66,
+        "startChar": 0,
+        "endLine": 68,
+        "endChar": 13
+      },
+      "revId": "6517b63d664bd046c6a24e7112c865fb5f87f9cc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ],
   "submitRequirementResults": [
