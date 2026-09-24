@@ -23,7 +23,6 @@ vendor/lib/libsecmem.so
 
 ## Firmware
 vendor/lib/firmware/video/video_ucode.bin
-vendor/lib/firmware/aucpu_fw.bin
 
 ## Netflix - from YOC - URO4.260304.011.B1
 product/etc/sysconfig/netflix.xml|a63698bfa31a9261eb329d0fbbc975faaff37b68
