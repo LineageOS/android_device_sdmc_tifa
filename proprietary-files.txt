@@ -33,13 +33,6 @@ vendor/bin/hw/android.hardware.oemlock@1.0-service.droidlogic
 vendor/etc/init/android.hardware.oemlock@1.0-service.droidlogic.rc
 vendor/etc/vintf/manifest/android.hardware.oemlock@1.0-service.droidlogic.xml
 
-## Provision
-vendor/bin/ref_provision
-vendor/etc/init/ref_provision.rc
-vendor/etc/vintf/manifest/vendor.ref.hardware.RefProvision@1.1.xml
-vendor/lib/vendor.ref.hardware.RefProvision@1.0.so
-vendor/lib/vendor.ref.hardware.RefProvision@1.1.so
-
 ## TEE
 vendor/bin/hw/android.hardware.security.keymint-service.amlogic
 vendor/etc/init/android.hardware.security.keymint-service.amlogic.rc
