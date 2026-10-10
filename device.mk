@@ -32,6 +32,7 @@ PRODUCT_SOONG_NAMESPACES += \
 
 ## Wi-Fi
 PRODUCT_PACKAGES += \
+    WifiOverlayTarget \
     wifi_vendor_hal.xml
 
 ## Inherit from the common tree product makefile
