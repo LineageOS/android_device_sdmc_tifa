@@ -95,3 +95,29 @@ key 358	  INFO
 
 key 402   CHANNEL_UP
 key 403   CHANNEL_DOWN
+
+key 66    GUIDE
+key 127   SEARCH
+key 217   ASSIST      WAKE
+key 580   ALL_APPS
+key 666   TV
+
+key 398   PROG_RED
+key 399   PROG_GREEN
+key 400   PROG_YELLOW
+key 401   PROG_BLUE
+
+key 59    BUTTON_4    # YouTube
+key 61    BUTTON_5    # Play Store
+key 63    BUTTON_1    # Viettel App
+key 64    BUTTON_7    # Account
+key 71    BUTTON_3    # Channel List
+key 183   F11         # Playlist
+key 192   BUTTON_6    # Movies
+key 359   BUTTON_11   # Music
+key 370   BUTTON_14   # Sport
+key 378   BUTTON_2    # Video
+key 379   BUTTON_10   # Viettel Home
+key 582   BUTTON_8    # Viettel Assistant
+key 583   BUTTON_15   # Last Channel
+
