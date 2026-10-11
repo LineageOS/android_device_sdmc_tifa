@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "890574a1_34d24d7b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2026-10-11T07:07:01Z",
+      "side": 1,
+      "message": "Please fast-forward next time. No need to make the branches diverge for no reason.",
+      "revId": "e866139483ac4093cfb9fbccd0fec6066412dc72",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
