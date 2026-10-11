@@ -16,6 +16,24 @@
       "message": "Please fast-forward next time. No need to make the branches diverge for no reason.",
       "revId": "e866139483ac4093cfb9fbccd0fec6066412dc72",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "dc2d4852_a1da2b28",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32674
+      },
+      "writtenOn": "2026-10-11T13:22:07Z",
+      "side": 1,
+      "message": "Acknowledged",
+      "parentUuid": "890574a1_34d24d7b",
+      "revId": "e866139483ac4093cfb9fbccd0fec6066412dc72",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
