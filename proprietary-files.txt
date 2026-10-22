@@ -1,10 +1,6 @@
 ## All blobs from this list, unless pinned and noted as otherwise,
 ## are from DV9135-KVV (UKG3.250803.001).
 
-## Audio
-odm/lib/libHwAudio_dcvdec.so
-odm/lib/libHwAudio_dtshd.so
-
 ## Bluetooth
 vendor/etc/bt_configure_pskey_aa.ini
 vendor/etc/bt_configure_rf.ini
