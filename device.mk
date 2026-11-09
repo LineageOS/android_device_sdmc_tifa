@@ -16,7 +16,7 @@ PRODUCT_PACKAGES += \
     Vendor_005d_Product_0001.kl
 
 PRODUCT_COPY_FILES += \
-    $(LOCAL_PATH)/keylayout/Vendor_0001_Product_0001.kl:$(TARGET_COPY_OUT_VENDOR)/usr/keylayout/Vendor_0001_Product_0001.kl
+    $(LOCAL_PATH)/configs/keylayout/Vendor_0001_Product_0001.kl:$(TARGET_COPY_OUT_VENDOR)/usr/keylayout/Vendor_0001_Product_0001.kl
 
 ## Netflix
 PRODUCT_PACKAGES += \
